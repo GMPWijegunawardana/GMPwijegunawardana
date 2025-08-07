@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  🚀 _"Always learning. Always building. Always pushing forward."_
+  🚀 _"Always learning. Always building. Always pushing forward..."_
 </p>
 
 
